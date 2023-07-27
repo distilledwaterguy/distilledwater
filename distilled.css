@@ -1,0 +1,7 @@
+:root{
+  --main_distilled: #d4f1f9;
+  --secondary_distilled: #1b95e0;
+}
+* {
+  font-color: var(--main_distilled);
+}
